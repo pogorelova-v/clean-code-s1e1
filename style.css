@@ -1,27 +1,27 @@
-/* Basic Style */
+/* Basic Style */aaa
 body {
     background-color: #f8f8f8;
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.details {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.aaa img {
+.details img {
     width: 100%;
 }
-.aaa .more_inf {
+.details .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.details { text-align: center;
 }
 }
-.centered-main-page-element {
+.add-items {
     display: block;
     width: 500px;
     margin: 0 auto 0;
